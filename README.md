@@ -1,9 +1,9 @@
 # api
 
-https://api.covid19india.org/data.json
+https://api.coronaviruschart.live/data.json
 
-https://api.covid19india.org/state_district_wise.json
+https://api.coronaviruschart.live/state_district_wise.json
 
-https://api.covid19india.org/travel_history.json
+https://api.coronaviruschart.live/travel_history.json
 
-https://api.covid19india.org/raw_data.json
+https://api.coronaviruschart.live/raw_data.json
